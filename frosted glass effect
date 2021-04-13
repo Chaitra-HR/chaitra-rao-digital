@@ -1,0 +1,6 @@
+<style>
+.frosted-glass {
+ -webkit-backdrop-filter: saturate(200%) blur(10px) brightness(100%);
+ backdrop-filter: saturate(200%) blur(10px) brightness(100%);
+}
+</style>
